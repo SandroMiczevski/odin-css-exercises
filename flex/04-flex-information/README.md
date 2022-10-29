@@ -1,3 +1,9 @@
+---
+noteId: "56b167f357a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 # A very common website feature
 
 The goal of this exercise is to recreate a section that is found on many informational websites.

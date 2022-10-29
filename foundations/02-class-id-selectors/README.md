@@ -1,3 +1,9 @@
+---
+noteId: "56b1b61057a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 # Class and ID Selectors
 Knowing how to add class and ID attributes to HTML elements, as well as use their respective selectors, is invaluable. It's important to practice using them.
 

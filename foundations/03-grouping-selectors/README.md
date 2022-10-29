@@ -1,3 +1,9 @@
+---
+noteId: "56b1b61157a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 # Grouping Selectors
 
 Let's build a little off the previous exercise, in which you (hopefully) added multiple classes to a single element in order to apply two different rules to it.

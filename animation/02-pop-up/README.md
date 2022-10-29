@@ -1,3 +1,9 @@
+---
+noteId: "56b167f057a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 # Popup
 
 In this exercise we have set up a simple pop-up dialog for you. It already works! Load up index.html and give it a shot!

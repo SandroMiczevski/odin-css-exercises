@@ -1,9 +1,12 @@
 ---
-name: Feature Request
-about: Suggest a new feature or enhancement for this project
+noteId: "56b1dd2057a911ed866fe3ea58d52575"
+tags: []
+name: "Feature Request"
+about: "Suggest a new feature or enhancement for this project"
 title: ""
 labels: "Status: Needs Review"
 assignees: ""
+
 ---
 
 <!-- Thank you for taking the time to submit a new feature request to The Odin Project. In order to get issues closed in a reasonable amount of time, you must include a baseline of information about the feature/enhancement you are proposing. Please read this template in its entirety before filling it out to ensure that it is filled out correctly. -->

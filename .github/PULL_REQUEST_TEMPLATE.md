@@ -1,3 +1,9 @@
+---
+noteId: "56b140e057a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 <!-- Thank you for taking the time to contribute to The Odin Project. In order to get this pull request (PR) merged in a reasonable amount of time, you must complete this entire template. -->
 
 ## Because

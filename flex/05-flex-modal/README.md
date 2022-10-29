@@ -1,3 +1,9 @@
+---
+noteId: "56b18f0057a911ed866fe3ea58d52575"
+tags: []
+
+---
+
 # A common 'modal' style
 This one is another very common pattern on the web. The solution to this one is _simple_... but it might not be immediately obvious to you. You'll need to edit the HTML a bit to get everything where it needs to be.
 

@@ -1,9 +1,12 @@
 ---
-name: Bug Report
-about: Create a report to help us improve something that is not working correctly
+noteId: "56b2ee9057a911ed866fe3ea58d52575"
+tags: []
+name: "Bug Report"
+about: "Create a report to help us improve something that is not working correctly"
 title: "Bug - :"
 labels: "Status: Needs Review, Type: Bug"
 assignees: ""
+
 ---
 
 <!-- Thank you for taking the time to submit a bug report to The Odin Project. In order to get issues closed in a reasonable amount of time, you must include a baseline of information about the bug in question. Please read this template in its entirety before filling it out to ensure that it is filled out correctly. -->
